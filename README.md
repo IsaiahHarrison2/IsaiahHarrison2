@@ -8,7 +8,7 @@
   - [osTicket: Ticket Lifecycle Examples](https://github.com/IsaiahHarrison2/ticket-lifecycle)
 - <b>Microsoft Azure</b>
   - [Creating a Virtual Machine](https://github.com/IsaiahHarrison2/VM-Creation)
-  - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/IsaiahHarrison2/azure-network-protocols)
+    
 
 <h2>🤳Connect with me:</h2>
 
